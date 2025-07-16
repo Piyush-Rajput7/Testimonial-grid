@@ -42,12 +42,12 @@ Users should be able to:
 
 Add a screenshot of your final solution here. You can use Firefox (right-click → Take Screenshot) or tools like FireShot.
 
-*File path example: "./screenshot.png"*
+*File path example: `./screenshot.png`*
 
 ### Links
 
 * Solution URL: [https://www.frontendmentor.io/solutions/your-solution-url](https://www.frontendmentor.io/solutions/your-solution-url)
-* Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+* Live Site URL: [https://your-live-site-url.com](https://testimonial-grid11.netlify.app/)
 
 ---
 
